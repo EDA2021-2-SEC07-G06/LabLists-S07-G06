@@ -1,3 +1,6 @@
+Benjamín Muñoz Hurtado b.munoz@uniandes.edu.co 202021634
+Juan David Rueda Torres jd.ruedat@uniandes.edu.co 201822988
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
